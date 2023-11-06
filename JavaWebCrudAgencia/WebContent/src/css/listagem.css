@@ -1,0 +1,11 @@
+body{
+	background-image: url(../img/fundo2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+
+.container{
+box-shadow: rgb(37, 53, 92) 10px 20px 30px -10px;
+}
